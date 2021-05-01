@@ -26,7 +26,8 @@ SECRET_KEY = 'b0+=n7+0le!n%$k&d1rxt#@@fohe=mbqa8+2omqis8ql+hr%1)'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'akindiak.pythonanywhere.com'
+    'akindiak.pythonanywhere.com',
+    '127.0.0.1',
 ]
 
 
